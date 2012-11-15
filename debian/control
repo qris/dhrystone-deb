@@ -1,7 +1,7 @@
 Source: dhrystone
 Section: unknown
 Priority: extra
-Maintainer: Chris Wilson <chris+dhrystone@qwirx.com>
+Maintainer: Chris Wilson <chris+debian@aptivate.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
 Homepage: http://www.netlib.org/benchmark/dhry-c

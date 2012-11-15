@@ -3,4 +3,4 @@ dhrystone for Debian
 
 Modified to actually compile on Debian/Ubuntu.
 
- -- Chris Wilson <chris+dhrystone@qwirx.com>  Thu, 15 Nov 2012 11:51:03 +0000
+ -- Chris Wilson <chris+debian@aptivate.org>  Thu, 15 Nov 2012 11:51:03 +0000

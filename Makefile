@@ -9,3 +9,6 @@ install:
 
 clean:
 	rm -f dhry
+
+upload:
+	debuild -i -us -b -kEC94736D

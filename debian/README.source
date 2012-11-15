@@ -1,9 +1,6 @@
 dhrystone for Debian
 --------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
+Modified to actually compile on Debian/Ubuntu.
 
-
-
-
+ -- Chris Wilson <chris+dhrystone@qwirx.com>  Thu, 15 Nov 2012 11:51:03 +0000

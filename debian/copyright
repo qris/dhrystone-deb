@@ -11,7 +11,7 @@ License: Public Domain
  <http://www.patater.com/dhrystone-68k>
 
 Files: debian/*
-Copyright: 2012 Chris Wilson <chris@unknown>
+Copyright: 2012 Chris Wilson <chris+dhrystone@qwirx.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

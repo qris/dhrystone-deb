@@ -1,1 +1,5 @@
+debian/dhrystone.debhelper.log
+debian/dhrystone.substvars
+debian/dhrystone
+debian/files
 dhry

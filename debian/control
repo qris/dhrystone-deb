@@ -1,15 +1,24 @@
 Source: dhrystone
 Section: unknown
 Priority: extra
-Maintainer: Chris Wilson <chris@unknown>
+Maintainer: Chris Wilson <chris+dhrystone@qwirx.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.2
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://git.debian.org/collab-maint/dhrystone.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/dhrystone.git;a=summary
+Homepage: http://www.netlib.org/benchmark/dhry-c
+Vcs-Git: git@github.com:qris/dhrystone-deb.git
+Vcs-Browser: https://github.com/qris/dhrystone-deb
 
 Package: dhrystone
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: a popular benchmark for CPU/compiler performance measurement
+ The Dhrystone benchmark program has become a popular benchmark for
+ CPU/compiler performance measurement, in particular in the area of
+ minicomputers, workstations, PC's and microprocesors. It apparently satisfies
+ a need for an easy-to-use integer benchmark; it gives a first performance
+ indication which is more meaningful than MIPS numbers which, in their literal
+ meaning (million instructions per second), cannot be used across different
+ instruction sets (e.g. RISC vs. CISC). With the increasing use of the
+ benchmark, it seems necessary to reconsider the benchmark and to check whether
+ it can still fulfill this function. Version 2 of Dhrystone is the result of
+ such a re-evaluation.

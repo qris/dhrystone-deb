@@ -1,5 +1,5 @@
-dhrystone (1996.09.14-1) unstable; urgency=low
+dhrystone (2.1998.08-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- Chris Wilson <chris@unknown>  Thu, 15 Nov 2012 11:51:03 +0000
+ -- Chris Wilson <chris+dhrystone@qwirx.com>  Thu, 15 Nov 2012 11:51:03 +0000

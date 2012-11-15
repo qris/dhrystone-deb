@@ -1,0 +1,31 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: dhrystone
+Source: www.netlib.org/benchmark/dhry-c
+
+Files: *
+Copyright: 1988 Reinhold P. Weicker
+License: Public Domain
+ The documentation does not explicitly state the license. I'm going
+ on hearsay: "The source code license of Dhrystone 68k is the same as
+ Dhrystone C 2.1, which I was told is in the public domain."
+ <http://www.patater.com/dhrystone-68k>
+
+Files: debian/*
+Copyright: 2012 Chris Wilson <chris@unknown>
+License: GPL-2+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
+
